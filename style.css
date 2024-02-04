@@ -43,6 +43,7 @@ button{
   gap: 20px;
   animation-name: animateModal;
   animation-duration: .5s;
+    border:1px solid #000;
 }
 
 @keyframes animateModal{
